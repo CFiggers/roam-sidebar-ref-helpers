@@ -2,9 +2,9 @@
 
 This extension adds five new helper commands to the Roam Command Palette:
 
-- Right Sidebar Collapse (rscol)
-- Right Sidebar Expand (rsexp)
-- Right Sidebar Close (rscl)
+- Right Sidebar Collapse (rscolw)
+- Right Sidebar Expand (rsexpw)
+- Right Sidebar Close (rsclsw)
 - Linked References Collapse (refcol)
 - Linked References Expand (refexp)
 
